@@ -30,6 +30,7 @@ in caso non si fosse capito questo progetto è basato https://github.com/willnod
 - rimuovere la ram esistente e sostituirla con questa https://www.amazon.it/Crucial-CT4G4DFS824A-Memoria-PC4-19200-288-Pin/dp/B019FRDFU0/ref=sr_1_1?keywords=ram+dell%27+inps&s=pc (solo un banco)
 - rimuovere la CPU e sostituirla con questa https://www.ebay.com/itm/393388310422
 - installare hackbgrt https://github.com/Metabolix/HackBGRT/releases  (usare questo file splash.bmp ==> [drive](https://drive.google.com/file/d/10-Nz_vS4sx7ryaShgK0Axe_S2oBjjYoh/view?usp=sharing) <==)
+- cambia la tua pagina iniziale del browser su https://www.ordissinaute.fr/
 - ah e mi sono dimenticato installare un suono di avvio consono (trovabile qui)  [Drive](https://drive.google.com/file/d/1elR5t1wUXDdf84XOk3ZLtaHGCfZDpIVf/view?usp=sharing)                                                                           [yt](https://youtu.be/2MRP8Qh8nRI) 
 
 
