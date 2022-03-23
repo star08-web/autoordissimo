@@ -20,3 +20,7 @@ Uses [MPV](https://mpv.io).
 video avvio https://youtu.be/3N7wCiWurCQ (editato da me)
 sfondo ordissimo https://www.reddit.com/r/stockdroid/comments/malfjt/ho_creato_uno_sfondo_ordissimo/
 
+
+
+in caso non si fosse capito questo progetto è basato https://github.com/willnode/autobloom
+
