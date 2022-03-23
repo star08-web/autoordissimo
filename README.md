@@ -24,3 +24,24 @@ sfondo ordissimo https://www.reddit.com/r/stockdroid/comments/malfjt/ho_creato_u
 
 in caso non si fosse capito questo progetto è basato https://github.com/willnode/autobloom
 
+---------------------------------------------------------------------------------------------
+# nota! per una esperienza ancora più originale si consideri di: 
+
+- rimuovere la ram esistente e sostituirla con questa https://www.amazon.it/Crucial-CT4G4DFS824A-Memoria-PC4-19200-288-Pin/dp/B019FRDFU0/ref=sr_1_1?keywords=ram+dell%27+inps&s=pc (solo un banco)
+- rimuovere la CPU e sostituirla con questa https://www.ebay.com/itm/393388310422
+- installare hackbgrt https://github.com/Metabolix/HackBGRT/releases  (usare questo file splash.bmp ==> https://drive.google.com/file/d/10-Nz_vS4sx7ryaShgK0Axe_S2oBjjYoh/view?usp=sharing <==) 
+
+
+
+
+#testimonianze Hardware
+
+
+
+[stockdroid](https://www.youtube.com/watch?v=IjXKgxhgpGo&list=PLNVHxARuna1ZE2Vy1Y2nej8KirRmiP-rq&index=3)
+
+
+
+[SaddyTech](https://youtu.be/dQw4w9WgXcQ)
+
+
