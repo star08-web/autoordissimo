@@ -1,6 +1,6 @@
 # AutoOrdissimov1.0
 
-fatti un compiuter più semplice (non realmente) con AutoOrdissimo
+fatti un compiuter più     M O N A     con AutoOrdissimo
 
 
 ## Installation
