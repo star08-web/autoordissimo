@@ -1,17 +1,15 @@
-# AutoBloom v1.0
+# AutoOrdissimov1.0
 
-Make Windows 11 Bloom Wallpaper get animated when signing in.
-
-https://user-images.githubusercontent.com/20214420/136711426-270f258c-090a-4189-a4fb-3e5863ec1586.mp4
+fatti un compiuter più semplice (non realmente) con AutoOrdissimo
 
 
 ## Installation
 
-1. Download at [releases page](https://github.com/willnode/autobloom/releases)
+1. Download at releases page
 2. Run `install.bat`
-3. Try log out from your computer :)
+3. prova a loggare di nuovo
 
-Note that this software uses scheduled tasks to run during startup. If you move the software, you have to do uninstall then install again. Also, it will not run with battery power, in order to change that you have to [disable only run in AC power by yourself](https://stackoverflow.com/questions/9075564/change-settings-for-power-for-windows-scheduled-task).
+Si noti che questo software utilizza attività pianificate da eseguire durante l'avvio. Se si sposta il software, è necessario eseguire la disinstallazione e quindi installare di nuovo. Inoltre, non funzionerà con l'alimentazione a batteria, al fine di cambiare che è necessario [disabilitare solo l'esecuzione in alimentazione CA da soli] (https://stackoverflow.com/questions/9075564/change-impostazioni-per-alimentazione-per-Windows-scheduled-task).
 
 To uninstall just run `uninstall.bat`.
 
@@ -19,4 +17,6 @@ To uninstall just run `uninstall.bat`.
 
 Uses [MPV](https://mpv.io).
 
-All media contents are belongs to Microsoft.
+video avvio https://youtu.be/3N7wCiWurCQ (editato da me)
+sfondo ordissimo https://www.reddit.com/r/stockdroid/comments/malfjt/ho_creato_uno_sfondo_ordissimo/
+
