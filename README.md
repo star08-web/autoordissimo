@@ -31,7 +31,7 @@ in caso non si fosse capito questo progetto è basato https://github.com/willnod
 - rimuovere la CPU e sostituirla con questa https://www.ebay.com/itm/393388310422
 - installare hackbgrt https://github.com/Metabolix/HackBGRT/releases  (usare questo file splash.bmp ==> [drive](https://drive.google.com/file/d/10-Nz_vS4sx7ryaShgK0Axe_S2oBjjYoh/view?usp=sharing) <==)
 - cambia la tua pagina iniziale del browser su https://www.ordissinaute.fr/
-- ah e mi sono dimenticato installare un suono di avvio consono (trovabile qui)  [Drive](https://drive.google.com/file/d/1elR5t1wUXDdf84XOk3ZLtaHGCfZDpIVf/view?usp=sharing)                                                                           [yt](https://youtu.be/2MRP8Qh8nRI)    [compiled audio (start automatically) (follow the instructions)](https://drive.google.com/file/d/125HUkg_Rmhcmp_3W13ywnNhhwlG-11Ut/view?usp=sharing)
+- ah e mi sono dimenticato, bisogna installare un suono di avvio consono (trovabile qui)  [Drive](https://drive.google.com/file/d/1elR5t1wUXDdf84XOk3ZLtaHGCfZDpIVf/view?usp=sharing)                                                                           [yt](https://youtu.be/2MRP8Qh8nRI)    [compiled audio (start automatically) (follow the instructions)](https://drive.google.com/file/d/125HUkg_Rmhcmp_3W13ywnNhhwlG-11Ut/view?usp=sharing)
 
 
 
