@@ -9,7 +9,7 @@ fatti un compiuter più     M O N A     con AutoOrdissimo
 2. Run `install.bat`
 3. prova a loggare di nuovo
 
-Si noti che questo software utilizza attività pianificate da eseguire durante l'avvio. Se si sposta il software, è necessario eseguire la disinstallazione e quindi installare di nuovo. Inoltre, non funzionerà con l'alimentazione a batteria, al fine di cambiare che è necessario [disabilitare solo l'esecuzione in alimentazione CA da soli] (https://stackoverflow.com/questions/9075564/change-impostazioni-per-alimentazione-per-Windows-scheduled-task).
+Si noti che questo software utilizza attività pianificate da eseguire durante l'avvio. Se si sposta il software, è necessario eseguire la disinstallazione e quindi installare di nuovo. Inoltre, non funzionerà con l'alimentazione a batteria, al fine di cambiare che è necessario [disabilitare solo l'esecuzione in alimentazione CA da soli](https://stackoverflow.com/questions/9075564/change-impostazioni-per-alimentazione-per-Windows-scheduled-task).
 
 To uninstall just run `uninstall.bat`.
 
